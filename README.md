@@ -2,17 +2,17 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.0-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/KasRoudra/pyphisher?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/KasRoudra/pyphisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/KasRoudra/pyphisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/KasRoudra/pyphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/KasRoudra/pyphisher?style=for-the-badge&color=blue">
-  <img src="https://hits.dwyl.com/KasRoudra/PyPhisher.svg" width="140" height="28">
+  <img src="https://img.shields.io/github/stars/trhacknon/pyphisher?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/trhacknon/pyphisher?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/trhacknon/pyphisher?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/trhacknon/pyphisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/trhacknon/pyphisher?style=for-the-badge&color=blue">
+  <img src="https://hits.dwyl.com/trhacknon/PyPhisher.svg" width="140" height="28">
 <br>
 <br>
-  <img src="https://img.shields.io/badge/Author-KasRoudra-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/modder-trhacknon-purple?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-80%25-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Made%20in-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+  <img src="https://img.shields.io/badge/Made%20in-anonymousland-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
 
@@ -23,7 +23,7 @@
 
 ### [*]Announcent
 
-This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhisher). Further bug fixes and feature addition will be available in that
+This project is now a part of [MaxPhisher](https://github.com/trhacknon/MaxPhisher). Further bug fixes and feature addition will be available in that
 
 
 ### [+] Installation
@@ -54,7 +54,7 @@ This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhish
 
 #### Or, directly run
 ```
-wget https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/pyphisher.py && python3 pyphisher.py
+wget https://raw.githubusercontent.com/trhacknon/PyPhisher/main/pyphisher.py && python3 pyphisher.py
 
 ```
 
@@ -65,8 +65,8 @@ wget https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/pyphisher.py && 
 
 ### Docker
 
- - `sudo docker pull kasroudra/pyphisher`
- - `sudo docker run --rm -it kasroudra/pyphisher`
+ - `sudo docker pull trhacknon/pyphisher`
+ - `sudo docker run --rm -it trhacknon/pyphisher`
 
 #### Options
 
@@ -142,7 +142,7 @@ If not found, php and python modoules will be installed on first run
 
 <h1 align="center">Example</h1>
 
-![PyPhisher](https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/files/pyphisher.gif)
+![PyPhisher](https://raw.githubusercontent.com/trhacknon/PyPhisher/main/files/pyphisher.gif)
 
 ## Video Tutorial
 <a href="https://rebrand.ly/pyphishervideo">PyPhisher Video</a>
@@ -189,11 +189,11 @@ Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zp
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
+- [![Github](https://img.shields.io/badge/Github-trhacknon-green?style=for-the-badge&logo=github)](https://github.com/trhacknon)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-trhacknon-green?style=for-the-badge&logo=gmail)](mailto:jeremydiliotti@gmail.com)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
+- [![Facebook](https://img.shields.io/badge/Facebook-trhacknon-green?style=for-the-badge&logo=facebook)](https://facebook.com/)
 
-- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-green?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
+- [![Messenger](https://img.shields.io/badge/Messenger-trhacknon-green?style=for-the-badge&logo=messenger)](https://m.me/)
 
