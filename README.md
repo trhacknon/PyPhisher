@@ -41,7 +41,7 @@ This project is now a part of [MaxPhisher](https://github.com/trhacknon/MaxPhish
 
 ##### Clone this repository
 
- - ```git clone https://github.com/KasRoudra/PyPhisher```
+ - ```git clone https://github.com/trhacknon/PyPhisher```
 
 ##### Enter the directory
  - ```cd PyPhisher```
@@ -183,7 +183,7 @@ If not found, php and python modoules will be installed on first run
 ### This repository is open source to help others. So if you wish to copy, consider giving credit!
 
 ## Credits:
-Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zphisher), otp templates are from [ignitech](https://guthub.com/ignitech/AdvPhishing) and url masking is inspired from [jaykali](https://github.com/jaykali/maskphish)
+Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zphisher), otp templates are from [ignitech](https://guthub.com/ignitech/AdvPhishing) and url masking is inspired from [jaykali](https://github.com/trhacknon/maskphish)
 
 ####  If this tool helped you, consider staring repository. Your stars encourage me a lot!
 
